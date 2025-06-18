@@ -11,11 +11,6 @@
       "icon": "custom:vue"
     },
     {
-      "name": "Nest",
-      "link": "https://nestjs.com/",
-      "icon": "custom:nest"
-    },
-    {
       "name": "TailwindCSS",
       "link": "https://tailwindcss.com/",
       "icon": "custom:tailwind"
@@ -84,6 +79,11 @@
       "name": "Illustrator",
       "link": "https://www.adobe.com/products/illustrator.html",
       "icon": "custom:illustrator"
+    },
+    {
+      "name": "Lightroom",
+      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
+      "icon": "custom:lightroom"
     },
     {
       "name": "Lightroom",
